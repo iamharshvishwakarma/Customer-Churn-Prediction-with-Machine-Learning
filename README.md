@@ -73,12 +73,3 @@ This project focuses on predicting customer churn using classification algorithm
 
 ---
 
-## 🚀 How to Run the Code
-
-### ✅ Prerequisites
-
-- Python 3.8+
-- Install dependencies:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
